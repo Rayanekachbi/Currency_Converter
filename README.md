@@ -108,7 +108,7 @@ après conversion : 92.10 EUR
 
 ### 🧑‍💻 Auteur
 
-Créé par **<Rayane KACHBI>** – Projet personnel d’apprentissage Python.
+Créé par **Rayane KACHBI** – Projet personnel d’apprentissage Python.
 
 ---
 
